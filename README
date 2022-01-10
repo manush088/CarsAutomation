@@ -1,0 +1,5 @@
+CaRS.com Automation
+
+I have created automation using visual studio, Selenium, C# programming Langauge. 
+This code will open cars.com website and perfor actions based on requirement.
+It will also generate log file in txt file format at the end of test case result.
